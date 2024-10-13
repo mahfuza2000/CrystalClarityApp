@@ -64,3 +64,28 @@ chart = (
     .properties(height=320)
 )
 st.altair_chart(chart, use_container_width=True)
+
+
+@st.cache_data
+def load_data():
+    df = pd.read_csv("data/WaterQualityDatabase.csv")
+    return df
+
+
+df = load_data()
+
+cities = st.multiselect(
+    "Cities",
+    df.City.unique(),
+    ["Arlington", "Fort Worth", "Irving"],
+)
+
+years = st.slider("Year", 2021, 2023, (2021, 2023))
+
+# df_filtered = df[(df["City"].isin(cities)) & (df["Year"].between(years[0], years[1]))]
+# df_reshaped = df_filtered.pivot_table(
+#     index="City", columns="Year", values="gross", aggfunc="sum", fill_value=0
+# )
+# df_reshaped = df_reshaped.sort_values(by="City", ascending=False)
+
+st.dataframe(df)
