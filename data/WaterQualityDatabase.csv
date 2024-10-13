@@ -1,4 +1,4 @@
-City,Year,Contaminant Name,Contaminant Type,Average Level,Maximum Contaminant Level Allowed,Maximum Contaminant Level Goal,Unit of Measure
+City,Year,Contaminant,Contaminant Type,Average Level,MCL Allowed,MCLG,Unit of Measure
 Irving,2023,Fluoride,Inorganic ,0.678,4,4,ppm
 Irving,2023,Nitrate,Inorganic ,0.662,10,10,ppm
 Irving,2023,Barium,Inorganic ,0.032,2,2,ppm
