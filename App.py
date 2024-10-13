@@ -27,19 +27,19 @@ st.divider()
 
 if mode == "Normal Mode":
 
-    years = st.slider("Year", 2021, 2023, (2021, 2023))
+    years = st.slider("Year", 2019, 2023, (2019, 2023))
 
     cities = st.multiselect(
         "Select Cities to Display",
         df.City.unique(),
-        ["Arlington", "Fort Worth", "Irving"],
+        ["Arlington", "Fort Worth", "Grand Prairie", "Irving", "Richardson"],
     )
 
     contaminant = st.multiselect(
         "Contaminants to Filter",
         df.Contaminant.unique(),
         ["Arsenic", "Atrazine", "Barium", "Bromodichloromethane", "Bromofoam", 
-        "Chloroform", "Chromiun", "Coliforms (fecal, E coli, etc)", "Copper", "Cyanide", 
+        "Chloroform", "Coliforms (fecal, E coli, etc)", "Copper", "Cyanide", 
         "Dibromochloromethane", "Fluoride", "Lead", "Nitrate", "Nitrite"]
     )
 

@@ -4,7 +4,6 @@ Irving,2023,Nitrate,Inorganic ,0.662,10,10,ppm
 Irving,2023,Barium,Inorganic ,0.032,2,2,ppm
 Irving,2023,Cyanide,Inorganic ,47,200,200,ppb
 Irving,2023,Nitrite,Inorganic ,0.006,1,1,ppm
-Irving,2023,Chromiun,Inorganic ,1.6,100,100,ppb
 Irving,2023,Chloroform,Unregulated,3.17,NULL,70,ppb
 Irving,2023,Bromodichloromethane,Unregulated,4,NULL,0,ppb
 Irving,2023,Dibromochloromethane,Unregulated,4.07,NULL,60,ppb
@@ -19,7 +18,6 @@ Arlington,2023,Nitrate,Inorganic ,0.509,10,10,ppm
 Arlington,2023,Barium,Inorganic ,0.053,2,2,ppm
 Arlington,2023,Cyanide,Inorganic ,60,200,200,ppb
 Arlington,2023,Nitrite,Inorganic ,0.05,1,1,ppm
-Arlington,2023,Chromiun,Inorganic ,NULL,100,100,ppb
 Arlington,2023,Chloroform,Unregulated,2.6,NULL,70,ppb
 Arlington,2023,Bromodichloromethane,Unregulated,3.6,NULL,0,ppb
 Arlington,2023,Dibromochloromethane,Unregulated,4.3,NULL,60,ppb
@@ -34,7 +32,6 @@ Fort Worth,2023,Nitrate,Inorganic ,0.76,10,10,ppm
 Fort Worth,2023,Barium,Inorganic ,0.06,2,2,ppm
 Fort Worth,2023,Cyanide,Inorganic ,137,200,200,ppb
 Fort Worth,2023,Nitrite,Inorganic ,NULL,1,1,ppm
-Fort Worth,2023,Chromiun,Inorganic ,NULL,100,100,ppb
 Fort Worth,2023,Chloroform,Unregulated,3.53,NULL,70,ppb
 Fort Worth,2023,Bromodichloromethane,Unregulated,3.41,NULL,0,ppb
 Fort Worth,2023,Dibromochloromethane,Unregulated,2.56,NULL,60,ppb
@@ -49,7 +46,6 @@ Fort Worth,2022,Nitrate,Inorganic ,0.57,10,10,ppm
 Fort Worth,2022,Barium,Inorganic ,0.08,2,2,ppm
 Fort Worth,2022,Cyanide,Inorganic ,51,200,200,ppb
 Fort Worth,2022,Nitrite,Inorganic ,NULL,1,1,ppm
-Fort Worth,2022,Chromiun,Inorganic ,NULL,100,100,ppb
 Fort Worth,2022,Chloroform,Unregulated,2.45,NULL,70,ppb
 Fort Worth,2022,Bromodichloromethane,Unregulated,2.93,NULL,0,ppb
 Fort Worth,2022,Dibromochloromethane,Unregulated,2.41,NULL,60,ppb
@@ -64,7 +60,6 @@ Fort Worth,2021,Nitrate,Inorganic ,0.66,10,10,ppm
 Fort Worth,2021,Barium,Inorganic ,0.07,2,2,ppm
 Fort Worth,2021,Cyanide,Inorganic ,197,200,200,ppb
 Fort Worth,2021,Nitrite,Inorganic ,NULL,1,1,ppm
-Fort Worth,2021,Chromiun,Inorganic ,NULL,100,100,ppb
 Fort Worth,2021,Chloroform,Unregulated,2.43,NULL,70,ppb
 Fort Worth,2021,Bromodichloromethane,Unregulated,2.55,NULL,0,ppb
 Fort Worth,2021,Dibromochloromethane,Unregulated,2.33,NULL,60,ppb
@@ -79,7 +74,6 @@ Arlington,2022,Nitrate,Inorganic ,0.382,10,10,ppm
 Arlington,2022,Barium,Inorganic ,0.052,2,2,ppm
 Arlington,2022,Cyanide,Inorganic ,16.8,200,200,ppb
 Arlington,2022,Nitrite,Inorganic ,0.05,1,1,ppm
-Arlington,2022,Chromiun,Inorganic ,NULL,100,100,ppb
 Arlington,2022,Chloroform,Unregulated,2.1,NULL,70,ppb
 Arlington,2022,Bromodichloromethane,Unregulated,2.8,NULL,0,ppb
 Arlington,2022,Dibromochloromethane,Unregulated,3.1,NULL,60,ppb
@@ -94,7 +88,6 @@ Arlington,2021,Nitrate,Inorganic ,0.455,10,10,ppm
 Arlington,2021,Barium,Inorganic ,0.041,2,2,ppm
 Arlington,2021,Cyanide,Inorganic ,125.5,200,200,ppb
 Arlington,2021,Nitrite,Inorganic ,0.05,1,1,ppm
-Arlington,2021,Chromiun,Inorganic ,NULL,100,100,ppb
 Arlington,2021,Chloroform,Unregulated,1.6,NULL,70,ppb
 Arlington,2021,Bromodichloromethane,Unregulated,2.2,NULL,0,ppb
 Arlington,2021,Dibromochloromethane,Unregulated,2.5,NULL,60,ppb
@@ -104,3 +97,87 @@ Arlington,2021,Arsenic,Other,NULL,10,NULL,ppb
 Arlington,2021,"Coliforms (fecal, E coli, etc)",Bacteria,0,5,NULL,Monthly % of Positive Samples
 Arlington,2021,Lead,Metal,1.203,NULL,0,ppb
 Arlington,2021,Copper,Metal,0.164,NULL,1.3,ppm
+Irving,2022,Fluoride,Inorganic ,0.602,4,4,ppm
+Irving,2022,Nitrate,Inorganic ,0.883,10,10,ppm
+Irving,2022,Barium,Inorganic ,0.033,2,2,ppm
+Irving,2022,Cyanide,Inorganic ,168,200,200,ppb
+Irving,2022,Nitrite,Inorganic ,0.006,1,1,ppm
+Irving,2022,Chloroform,Unregulated,2.61,NULL,70,ppb
+Irving,2022,Bromodichloromethane,Unregulated,3.19,NULL,0,ppb
+Irving,2022,Dibromochloromethane,Unregulated,3.13,NULL,60,ppb
+Irving,2022,Bromofoam,Unregulated,1.11,NULL,0,ppb
+Irving,2022,Atrazine,Organic,0.13,3,3,ppb
+Irving,2022,Arsenic,Other,NULL,10,NULL,ppb
+Irving,2022,"Coliforms (fecal, E coli, etc)",Bacteria,2.4,5,NULL,Monthly % of Positive Samples
+Irving,2022,Lead,Metal,1,NULL,0,ppb
+Irving,2022,Copper,Metal,0.3507,NULL,1.3,ppm
+Irving,2021,Fluoride,Inorganic ,0.674,4,4,ppm
+Irving,2021,Nitrate,Inorganic ,0.526,10,10,ppm
+Irving,2021,Barium,Inorganic ,0.029,2,2,ppm
+Irving,2021,Cyanide,Inorganic ,71.8,200,200,ppb
+Irving,2021,Nitrite,Inorganic ,0.017,1,1,ppm
+Irving,2021,Chloroform,Unregulated,5.8,NULL,70,ppb
+Irving,2021,Bromodichloromethane,Unregulated,4.58,NULL,0,ppb
+Irving,2021,Dibromochloromethane,Unregulated,3.23,NULL,60,ppb
+Irving,2021,Bromofoam,Unregulated,0.38,NULL,0,ppb
+Irving,2021,Atrazine,Organic,0.13,3,3,ppb
+Irving,2021,Arsenic,Other,NULL,10,NULL,ppb
+Irving,2021,"Coliforms (fecal, E coli, etc)",Bacteria,0.6,5,NULL,Monthly % of Positive Samples
+Irving,2021,Lead,Metal,1,NULL,0,ppb
+Irving,2021,Copper,Metal,0.3507,NULL,1.3,ppm
+Irving,2020,Fluoride,Inorganic ,0.641,4,4,ppm
+Irving,2020,Nitrate,Inorganic ,0.598,10,10,ppm
+Irving,2020,Barium,Inorganic ,0.031,2,2,ppm
+Irving,2020,Cyanide,Inorganic ,114.7,200,200,ppb
+Irving,2020,Nitrite,Inorganic ,0.017,1,1,ppm
+Irving,2020,Chloroform,Unregulated,16.18,NULL,70,ppb
+Irving,2020,Bromodichloromethane,Unregulated,5.56,NULL,0,ppb
+Irving,2020,Dibromochloromethane,Unregulated,2.91,NULL,60,ppb
+Irving,2020,Bromofoam,Unregulated,NULL,NULL,0,ppb
+Irving,2020,Atrazine,Organic,NULL,3,3,ppb
+Irving,2020,Arsenic,Other,NULL,10,NULL,ppb
+Irving,2020,"Coliforms (fecal, E coli, etc)",Bacteria,2.4,5,NULL,Monthly % of Positive Samples
+Irving,2020,Lead,Metal,1,NULL,0,ppb
+Irving,2020,Copper,Metal,0.218,NULL,1.3,ppm
+Irving,2019,Fluoride,Inorganic ,0.361,4,4,ppm
+Irving,2019,Nitrate,Inorganic ,0.704,10,10,ppm
+Irving,2019,Barium,Inorganic ,0.029,2,2,ppm
+Irving,2019,Cyanide,Inorganic ,NULL,200,200,ppb
+Irving,2019,Nitrite,Inorganic ,0.017,1,1,ppm
+Irving,2019,Chloroform,Unregulated,16.18,NULL,70,ppb
+Irving,2019,Bromodichloromethane,Unregulated,5.56,NULL,0,ppb
+Irving,2019,Dibromochloromethane,Unregulated,2.91,NULL,60,ppb
+Irving,2019,Bromofoam,Unregulated,NULL,NULL,0,ppb
+Irving,2019,Atrazine,Organic,0.1,3,3,ppb
+Irving,2019,Arsenic,Other,NULL,10,NULL,ppb
+Irving,2019,"Coliforms (fecal, E coli, etc)",Bacteria,0.6,5,NULL,Monthly % of Positive Samples
+Irving,2019,Lead,Metal,1,NULL,0,ppb
+Irving,2019,Copper,Metal,0,NULL,1.3,ppm
+Grand Prairie,2023,Fluoride,Inorganic ,0.56,4,4,ppm
+Grand Prairie,2023,Nitrate,Inorganic ,0.787,10,10,ppm
+Grand Prairie,2023,Barium,Inorganic ,0.034,2,2,ppm
+Grand Prairie,2023,Cyanide,Inorganic ,NULL,200,200,ppb
+Grand Prairie,2023,Nitrite,Inorganic ,0.41,1,1,ppm
+Grand Prairie,2023,Chloroform,Unregulated,4.62,NULL,70,ppb
+Grand Prairie,2023,Bromodichloromethane,Unregulated,6.67,NULL,0,ppb
+Grand Prairie,2023,Dibromochloromethane,Unregulated,6.93,NULL,60,ppb
+Grand Prairie,2023,Bromofoam,Unregulated,2.94,NULL,0,ppb
+Grand Prairie,2023,Atrazine,Organic,0.1,3,3,ppb
+Grand Prairie,2023,Arsenic,Other,NULL,10,NULL,ppb
+Grand Prairie,2023,"Coliforms (fecal, E coli, etc)",Bacteria,1.86,5,NULL,Monthly % of Positive Samples
+Grand Prairie,2023,Lead,Metal,0,NULL,0,ppb
+Grand Prairie,2023,Copper,Metal,0.2591,NULL,1.3,ppm
+Richardson,2023,Fluoride,Inorganic ,0.688,4,4,ppm
+Richardson,2023,Nitrate,Inorganic ,0.439,10,10,ppm
+Richardson,2023,Barium,Inorganic ,0.061,2,2,ppm
+Richardson,2023,Cyanide,Inorganic ,NULL,200,200,ppb
+Richardson,2023,Nitrite,Inorganic ,NULL,1,1,ppm
+Richardson,2023,Chloroform,Unregulated,10.32,NULL,70,ppb
+Richardson,2023,Bromodichloromethane,Unregulated,13.18,NULL,0,ppb
+Richardson,2023,Dibromochloromethane,Unregulated,10.55,NULL,60,ppb
+Richardson,2023,Bromofoam,Unregulated,2.82,NULL,0,ppb
+Richardson,2023,Atrazine,Organic,0.11,3,3,ppb
+Richardson,2023,Arsenic,Other,0,10,NULL,ppb
+Richardson,2023,"Coliforms (fecal, E coli, etc)",Bacteria,0,5,NULL,Monthly % of Positive Samples
+Richardson,2023,Lead,Metal,0.01706,NULL,0,ppb
+Richardson,2023,Copper,Metal,0.68,NULL,1.3,ppm
